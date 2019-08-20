@@ -1,0 +1,207 @@
+# Blender MTL File: 'scene.blend'
+# Material Count: 20
+
+newmtl grey_and_white_room:BottleCap
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.368000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Branches
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.128000 0.064000 0.016000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:BrushedStainlessSteel
+Ns 1.960784
+Ka 0.400000 0.400000 0.400000
+Kd 0.000000 0.000000 0.000000
+Ks 0.425000 0.390000 0.275000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Dirt
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.080000 0.040000 0.032000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:FireplaceGlass
+Ns 98.039216
+Ka 0.400000 0.400000 0.400000
+Kd 0.000000 0.000000 0.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Floor
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd D:\KIT\Fuenfsemester\Masterarbeit\Code\lightmetrica-v3-scenes\scenes\textures\wood.png
+
+newmtl grey_and_white_room:Glass
+Ns 998.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 7
+
+newmtl grey_and_white_room:Leaves
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd D:\KIT\Fuenfsemester\Masterarbeit\Code\lightmetrica-v3-scenes\scenes\textures\leaf.png
+map_d D:\KIT\Fuenfsemester\Masterarbeit\Code\lightmetrica-v3-scenes\scenes\textures\leaf.png
+
+newmtl grey_and_white_room:MattePaint
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.720000 0.720000 0.720000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Mirror
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.475000 0.475000 0.475000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl grey_and_white_room:Painting
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd D:\KIT\Fuenfsemester\Masterarbeit\Code\lightmetrica-v3-scenes\scenes\textures\picture8.png
+
+newmtl grey_and_white_room:PaintingBack
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.208000 0.200000 0.112000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Paneling
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.720000 0.720000 0.720000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:PlantPot
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.080000 0.080000 0.080000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Sofa
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.720000 0.720000 0.704000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:SofaLegs
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.080000 0.080000 0.080000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:TableWood
+Ns 0.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.000000 0.000000 0.000000
+Ks 0.020000 0.020000 0.020000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd D:\KIT\Fuenfsemester\Masterarbeit\Code\lightmetrica-v3-scenes\scenes\textures\wood5.png
+
+newmtl grey_and_white_room:Transluscent
+Ns 96.078431
+Ka 0.400000 0.400000 0.400000
+Kd 0.240000 0.240000 0.240000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:Walls
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.136000 0.105600 0.080000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+
+newmtl grey_and_white_room:initialShadingGroup
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
